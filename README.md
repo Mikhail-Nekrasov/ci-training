@@ -1,5 +1,7 @@
 ## Node.js Application for CI Training
 
+[![Node.js CI workflow](https://github.com/Mikhail-Nekrasov/ci-training/actions/workflows/ci_workflow.yaml/badge.svg)](https://github.com/Mikhail-Nekrasov/ci-training/actions/workflows/ci_workflow.yaml)
+
 This repository is training on creating a CI pipeline using GitHub Actions.
 
 ### Instructions
