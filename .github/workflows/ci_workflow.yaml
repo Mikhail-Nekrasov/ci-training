@@ -3,6 +3,7 @@ name: Node.js CI workflow
 on: 
   push: 
     branches: [main, release]
+    tags: ['v*']
   pull_request:
     branches: [main]
 
